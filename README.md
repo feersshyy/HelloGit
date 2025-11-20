@@ -3,6 +3,15 @@
 Esta práctica tiene como objetivo aplicar lo aprendido sobre **Markdown** para mejorar la presentación del archivo `README.md` dentro de un repositorio en GitHub.
 
 ---
+## 📸 Imágenes
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="11de58cc5c9b5369250a4e16ca1b41b2-removebg-preview.png">
+  <source media="(prefers-color-scheme: light)" srcset="62021c4d9b42881d53cbe50272751ce8-removebg-preview.png">
+  <img alt="Evidencia práctica 13" src="a2ee9d9c2d2c04d64c1223ab85f542dc-removebg-preview.png">
+</picture>
+
+---
 
 ## 📘 Objetivo de la práctica
 
