@@ -1,19 +1,5 @@
 # Práctica 13 – Uso de Markdown en GitHub 
 
-## Imágenes
-
-<picture>
-  <!-- Modo oscuro -->
-  <source media="(prefers-color-scheme: dark)" srcset=""C:\Users\ferna\OneDrive\Imágenes\STICKEEEEERS\a2ee9d9c2d2c04d64c1223ab85f542dc-removebg-preview.png"">
-  
-  <!-- Modo claro -->
-  <source media="(prefers-color-scheme: light)" srcset=""C:\Users\ferna\OneDrive\Imágenes\STICKEEEEERS\a2ee9d9c2d2c04d64c1223ab85f542dc-removebg-preview.png"">
-
-  <!-- Imagen por defecto -->
-  <img alt="Captura de evidencia de la Práctica 13" src="C:\Users\ferna\OneDrive\Imágenes\STICKEEEEERS\a2ee9d9c2d2c04d64c1223ab85f542dc-removebg-preview.png">
-</picture>
-
-
 Esta práctica tiene como objetivo aplicar lo aprendido sobre **Markdown** para mejorar la presentación del archivo `README.md` dentro de un repositorio en GitHub.
 
 ---
